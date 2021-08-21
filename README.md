@@ -1,4 +1,4 @@
-[![Ionic-todo-app](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Ionic-todo-app&theme=dark)](https://github.com/Pokelo97Ionic-todo-app)<br/>
+[![Ionic-todo-app](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Ionic-todo-app&theme=dark)](https://github.com/Pokelo97/Ionic-todo-app)<br/>
 
 ## What's this?
 A simple todo app!
