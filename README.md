@@ -3,7 +3,6 @@
 ## What's this?
 A simple todo app!
 
-[![web link](https://todo-app-347cb.web.app/)](https://todo-app-347cb.web.app/)
 
 ## Author
 
